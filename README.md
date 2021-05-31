@@ -1,0 +1,1 @@
+This is Gale's first git project!
